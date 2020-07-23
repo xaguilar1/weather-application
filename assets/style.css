@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     line-height: 1;
-    background-image: url(images/background.jpg);
+    background-image: url(images/weather.jpg);
     background-repeat: no-repeat;
      background-size: cover;
      height: 100vh;
@@ -13,5 +13,11 @@ h1 {
     padding-top: 10px;
 }
 
+aside {
+    margin-left: 10px;
+}
 
+#weatherToday {
+    padding-left: 20px;
+}
 
