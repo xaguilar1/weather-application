@@ -16,7 +16,7 @@ Tasks:
 - allow last display of last searched city weather conditions when teh weather dashboard is opened 
 
 
-URL of deployed app: 
+URL of deployed app: https://xarroyo1.github.io/weather-application/
 
 
 Screenshot of Homework : 
