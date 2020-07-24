@@ -10,8 +10,6 @@ var apikey = "929046c14f802b1921f3e5291affd2c0";
 var cityButton = JSON.parse(localStorage.getItem("cityID"));
 console.log(cityButton);
 
-//everytime page loads , triggers function to click last button for me when page loads 
-$(".history").trigger("click");
 
 
 function saveButtons() {
@@ -23,6 +21,8 @@ function saveButtons() {
         var newButton = $("<button>").text(cityButton[i]);
         newButton.attr("class", "hack");
         newButton.appendTo($(".history"));
+            //everytime page loads , triggers function to click last button for me when page loads 
+        $(".history").last().trigger("click");
     }};
 }
 saveButtons();
@@ -85,7 +85,8 @@ $(document).on("click",".hack", function() {
             $("#icon6").attr("src", "http://openweathermap.org/img/wn/" + response.daily[6].weather[0].icon + "@2x.png");
 
             })
-    });
+    }); 
+
 });
 
 
