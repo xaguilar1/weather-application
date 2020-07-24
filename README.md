@@ -20,3 +20,5 @@ URL of deployed app:
 
 
 Screenshot of Homework : 
+
+<img width="1014" alt="Screen Shot 2020-07-24 at 2 08 48 AM" src="https://user-images.githubusercontent.com/65522080/88365001-a952a700-cd52-11ea-9391-c49283e72cc4.png">
