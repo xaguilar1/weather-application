@@ -15,10 +15,11 @@ Tasks:
 - display 5-day forecast for current city 
 - allow last display of last searched city weather conditions when the weather dashboard is opened 
 
+*updates to come
 
 URL of deployed app: https://xarroyo1.github.io/weather-application/
 
 
-Screenshot of Homework : 
+Screenshot of Application : 
 
 <img width="1014" alt="Screen Shot 2020-07-24 at 2 08 48 AM" src="https://user-images.githubusercontent.com/65522080/88365001-a952a700-cd52-11ea-9391-c49283e72cc4.png">
